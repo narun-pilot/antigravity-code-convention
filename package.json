@@ -3,7 +3,7 @@
   "displayName": "Antigravity Code Review",
   "description": "Trigger automated code reviews using the code-review skill and Morakot coding conventions.",
   "version": "0.0.3",
-  "publisher": "antigravity",
+  "publisher": "narun-dev",
   "engines": {
     "vscode": "^1.80.0"
   },
